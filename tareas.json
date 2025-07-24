@@ -1,8 +1,14 @@
 [
   {
     "id": 1753313353010,
-    "descripcion": "hacer el tallercito del profe",
+    "descripcion": "el taller del profesorcito todavia no esta terminado",
     "completada": true,
     "fechaCreacion": "2025-07-23T23:29:13.010Z"
+  },
+  {
+    "id": 1753322372940,
+    "descripcion": "-",
+    "completada": false,
+    "fechaCreacion": "2025-07-24T01:59:32.940Z"
   }
 ]
