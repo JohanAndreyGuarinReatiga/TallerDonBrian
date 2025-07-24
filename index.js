@@ -20,7 +20,7 @@ async function main() {
         await agregarTarea()
         break
       case "2":
-        listarTareas()
+        await listarTareas()
         break
       case "3":
         await editarTarea()
